@@ -1,9 +1,8 @@
 Merhaba 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/aeren92)](https://github.com/aeren92)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
-[![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/alperen9292/)](https://www.instagram.com/alperen9292/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-quare&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/alp_eren92)](https://twitter.com/alp_eren92)
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
